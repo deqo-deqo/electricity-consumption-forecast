@@ -1,0 +1,9 @@
+# Локальные служебные
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Артефакты прогона (генерируются ноутбуком в Colab)
+artifacts/
+
